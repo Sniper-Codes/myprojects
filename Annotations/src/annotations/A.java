@@ -6,9 +6,9 @@ public interface A {
 	
 	
 	
-	//
 	
-	//
+	
+	
 	
 }
 // In java 1.5 annotations concept was introduced 
